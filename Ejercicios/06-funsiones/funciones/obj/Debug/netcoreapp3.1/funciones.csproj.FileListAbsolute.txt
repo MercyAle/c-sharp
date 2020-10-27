@@ -1,0 +1,13 @@
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.exe
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.deps.json
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.runtimeconfig.json
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.runtimeconfig.dev.json
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.dll
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\bin\Debug\netcoreapp3.1\funciones.pdb
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.csprojAssemblyReference.cache
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.AssemblyInfoInputs.cache
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.AssemblyInfo.cs
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.csproj.CoreCompileInputs.cache
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.dll
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.pdb
+C:\L2\c-sharp\Ejercicios\06-funsiones\funciones\obj\Debug\netcoreapp3.1\funciones.genruntimeconfig.cache
